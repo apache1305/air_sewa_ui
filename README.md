@@ -1,27 +1,27 @@
 PROJECT : AIR SEWA UI / FRONTEND
 
 Overview:
-    This backend application is developed using Node.js with react and has been tested on mac
+This backend application is developed using Node.js with react and has been tested on mac
 
 Pre-requisites:
-    Node.js installed on your machine
+Node.js installed on your machine
 
 Installation Instructions:
-    1. Install react
-        npm install -g create-react-app
-    2. Install bootstrap and reactstrap
-        npm install bootstrap@4.6.0 reactstrap@8.9.0 --legacy-peer-deps
-    3. cd to the project root directory /air_sewa_ui
-    4. Run UI
-        npm start
-    5. Open web page in browser
-        http://localhost:3000/
+1. Install react
+npm install -g create-react-app
+2. Install bootstrap and reactstrap
+npm install bootstrap@4.6.0 reactstrap@8.9.0 --legacy-peer-deps
+3. cd to the project root directory /air_sewa_ui
+4. Run UI
+npm start
+5. Open web page in browser
+http://localhost:3000/
 
 References:
-    1. https://www.section.io/engineering-education/react-and-django-rest-framework/
-    2. https://docs.microsoft.com/en-us/sql/relational-databases/spatial/spatial-indexes-overview?view=sql-server-ver16
-    3. https://realpython.com/location-based-app-with-geodjango-tutorial/
-    4. https://link.springer.com/chapter/10.1007/978-1-4615-2207-2_4?noAccess=true
+1. https://www.section.io/engineering-education/react-and-django-rest-framework/
+2. https://docs.microsoft.com/en-us/sql/relational-databases/spatial/spatial-indexes-overview?view=sql-server-ver16
+3. https://realpython.com/location-based-app-with-geodjango-tutorial/
+4. https://link.springer.com/chapter/10.1007/978-1-4615-2207-2_4?noAccess=true
 
 
 
