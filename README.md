@@ -8,14 +8,14 @@ Node.js installed on your machine
 
 Installation Instructions:
 1. Install react
-npm install -g create-react-app
+### `npm install -g create-react-app`
 2. Install bootstrap and reactstrap
-npm install bootstrap@4.6.0 reactstrap@8.9.0 --legacy-peer-deps
+### `npm install bootstrap@4.6.0 reactstrap@8.9.0 --legacy-peer-deps`
 3. cd to the project root directory /air_sewa_ui
 4. Run UI
-npm start
+### `npm start`
 5. Open web page in browser
-http://localhost:3000/
+### `http://localhost:3000/`
 
 References:
 1. https://www.section.io/engineering-education/react-and-django-rest-framework/
